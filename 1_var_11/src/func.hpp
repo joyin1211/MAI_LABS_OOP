@@ -1,0 +1,1 @@
+std::pair<int, int> closest_pair_tonum(long long n);

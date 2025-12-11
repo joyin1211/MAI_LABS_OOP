@@ -1,0 +1,111 @@
+Start testing: Dec 11 15:56 MSK
+----------------------------------------------------------
+1/4 Testing: ClosestPairToNum.SmallValues
+1/4 Test: ClosestPairToNum.SmallValues
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/1_var_11/build/tests" "--gtest_filter=ClosestPairToNum.SmallValues" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/1_var_11/build
+"ClosestPairToNum.SmallValues" start time: Dec 11 15:56 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = ClosestPairToNum.SmallValues
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ClosestPairToNum
+[ RUN      ] ClosestPairToNum.SmallValues
+[       OK ] ClosestPairToNum.SmallValues (0 ms)
+[----------] 1 test from ClosestPairToNum (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ClosestPairToNum.SmallValues" end time: Dec 11 15:56 MSK
+"ClosestPairToNum.SmallValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: ClosestPairToNum.Sample
+2/4 Test: ClosestPairToNum.Sample
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/1_var_11/build/tests" "--gtest_filter=ClosestPairToNum.Sample" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/1_var_11/build
+"ClosestPairToNum.Sample" start time: Dec 11 15:56 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = ClosestPairToNum.Sample
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ClosestPairToNum
+[ RUN      ] ClosestPairToNum.Sample
+[       OK ] ClosestPairToNum.Sample (0 ms)
+[----------] 1 test from ClosestPairToNum (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ClosestPairToNum.Sample" end time: Dec 11 15:56 MSK
+"ClosestPairToNum.Sample" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: ClosestPairToNum.SomeValues
+3/4 Test: ClosestPairToNum.SomeValues
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/1_var_11/build/tests" "--gtest_filter=ClosestPairToNum.SomeValues" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/1_var_11/build
+"ClosestPairToNum.SomeValues" start time: Dec 11 15:56 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = ClosestPairToNum.SomeValues
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ClosestPairToNum
+[ RUN      ] ClosestPairToNum.SomeValues
+[       OK ] ClosestPairToNum.SomeValues (0 ms)
+[----------] 1 test from ClosestPairToNum (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ClosestPairToNum.SomeValues" end time: Dec 11 15:56 MSK
+"ClosestPairToNum.SomeValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: ClosestPairToNum.BigNumberTL
+4/4 Test: ClosestPairToNum.BigNumberTL
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/1_var_11/build/tests" "--gtest_filter=ClosestPairToNum.BigNumberTL" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/1_var_11/build
+"ClosestPairToNum.BigNumberTL" start time: Dec 11 15:56 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = ClosestPairToNum.BigNumberTL
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ClosestPairToNum
+[ RUN      ] ClosestPairToNum.BigNumberTL
+[       OK ] ClosestPairToNum.BigNumberTL (0 ms)
+[----------] 1 test from ClosestPairToNum (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ClosestPairToNum.BigNumberTL" end time: Dec 11 15:56 MSK
+"ClosestPairToNum.BigNumberTL" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 11 15:56 MSK

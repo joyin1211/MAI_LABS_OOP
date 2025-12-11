@@ -1,0 +1,6 @@
+ClosestPairToNum.SmallValues 7 0.000510915
+ClosestPairToNum.Sample 7 0.00045336
+MyTests 1 0.00335844
+ClosestPairToNum.SomeValues 1 0.00307033
+ClosestPairToNum.BigNumberTL 1 0.0029556
+---
