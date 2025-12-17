@@ -1,0 +1,462 @@
+Start testing: Dec 17 16:08 MSK
+----------------------------------------------------------
+1/17 Testing: DecimalTest.DefaultConstructor
+1/17 Test: DecimalTest.DefaultConstructor
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build/tests" "--gtest_filter=DecimalTest.DefaultConstructor" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build
+"DecimalTest.DefaultConstructor" start time: Dec 17 16:08 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = DecimalTest.DefaultConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DecimalTest
+[ RUN      ] DecimalTest.DefaultConstructor
+[       OK ] DecimalTest.DefaultConstructor (0 ms)
+[----------] 1 test from DecimalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DecimalTest.DefaultConstructor" end time: Dec 17 16:08 MSK
+"DecimalTest.DefaultConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/17 Testing: DecimalTest.StringConstructor
+2/17 Test: DecimalTest.StringConstructor
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build/tests" "--gtest_filter=DecimalTest.StringConstructor" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build
+"DecimalTest.StringConstructor" start time: Dec 17 16:08 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = DecimalTest.StringConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DecimalTest
+[ RUN      ] DecimalTest.StringConstructor
+[       OK ] DecimalTest.StringConstructor (0 ms)
+[----------] 1 test from DecimalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DecimalTest.StringConstructor" end time: Dec 17 16:08 MSK
+"DecimalTest.StringConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/17 Testing: DecimalTest.StringConstructorInvalid
+3/17 Test: DecimalTest.StringConstructorInvalid
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build/tests" "--gtest_filter=DecimalTest.StringConstructorInvalid" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build
+"DecimalTest.StringConstructorInvalid" start time: Dec 17 16:08 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = DecimalTest.StringConstructorInvalid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DecimalTest
+[ RUN      ] DecimalTest.StringConstructorInvalid
+[       OK ] DecimalTest.StringConstructorInvalid (0 ms)
+[----------] 1 test from DecimalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DecimalTest.StringConstructorInvalid" end time: Dec 17 16:08 MSK
+"DecimalTest.StringConstructorInvalid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/17 Testing: DecimalTest.InitializerListConstructor
+4/17 Test: DecimalTest.InitializerListConstructor
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build/tests" "--gtest_filter=DecimalTest.InitializerListConstructor" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build
+"DecimalTest.InitializerListConstructor" start time: Dec 17 16:08 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = DecimalTest.InitializerListConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DecimalTest
+[ RUN      ] DecimalTest.InitializerListConstructor
+[       OK ] DecimalTest.InitializerListConstructor (0 ms)
+[----------] 1 test from DecimalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DecimalTest.InitializerListConstructor" end time: Dec 17 16:08 MSK
+"DecimalTest.InitializerListConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/17 Testing: DecimalTest.InitializerListConstructorInvalid
+5/17 Test: DecimalTest.InitializerListConstructorInvalid
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build/tests" "--gtest_filter=DecimalTest.InitializerListConstructorInvalid" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build
+"DecimalTest.InitializerListConstructorInvalid" start time: Dec 17 16:08 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = DecimalTest.InitializerListConstructorInvalid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DecimalTest
+[ RUN      ] DecimalTest.InitializerListConstructorInvalid
+[       OK ] DecimalTest.InitializerListConstructorInvalid (0 ms)
+[----------] 1 test from DecimalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DecimalTest.InitializerListConstructorInvalid" end time: Dec 17 16:08 MSK
+"DecimalTest.InitializerListConstructorInvalid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/17 Testing: DecimalTest.AddToSimpleNoCarry
+6/17 Test: DecimalTest.AddToSimpleNoCarry
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build/tests" "--gtest_filter=DecimalTest.AddToSimpleNoCarry" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build
+"DecimalTest.AddToSimpleNoCarry" start time: Dec 17 16:08 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = DecimalTest.AddToSimpleNoCarry
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DecimalTest
+[ RUN      ] DecimalTest.AddToSimpleNoCarry
+[       OK ] DecimalTest.AddToSimpleNoCarry (0 ms)
+[----------] 1 test from DecimalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DecimalTest.AddToSimpleNoCarry" end time: Dec 17 16:08 MSK
+"DecimalTest.AddToSimpleNoCarry" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/17 Testing: DecimalTest.AddToCarryWithinSameLength
+7/17 Test: DecimalTest.AddToCarryWithinSameLength
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build/tests" "--gtest_filter=DecimalTest.AddToCarryWithinSameLength" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build
+"DecimalTest.AddToCarryWithinSameLength" start time: Dec 17 16:08 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = DecimalTest.AddToCarryWithinSameLength
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DecimalTest
+[ RUN      ] DecimalTest.AddToCarryWithinSameLength
+[       OK ] DecimalTest.AddToCarryWithinSameLength (0 ms)
+[----------] 1 test from DecimalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DecimalTest.AddToCarryWithinSameLength" end time: Dec 17 16:08 MSK
+"DecimalTest.AddToCarryWithinSameLength" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/17 Testing: DecimalTest.AddToCarryExtendsLength
+8/17 Test: DecimalTest.AddToCarryExtendsLength
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build/tests" "--gtest_filter=DecimalTest.AddToCarryExtendsLength" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build
+"DecimalTest.AddToCarryExtendsLength" start time: Dec 17 16:08 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = DecimalTest.AddToCarryExtendsLength
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DecimalTest
+[ RUN      ] DecimalTest.AddToCarryExtendsLength
+[       OK ] DecimalTest.AddToCarryExtendsLength (0 ms)
+[----------] 1 test from DecimalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DecimalTest.AddToCarryExtendsLength" end time: Dec 17 16:08 MSK
+"DecimalTest.AddToCarryExtendsLength" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/17 Testing: DecimalTest.AddToAddingZero
+9/17 Test: DecimalTest.AddToAddingZero
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build/tests" "--gtest_filter=DecimalTest.AddToAddingZero" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build
+"DecimalTest.AddToAddingZero" start time: Dec 17 16:08 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = DecimalTest.AddToAddingZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DecimalTest
+[ RUN      ] DecimalTest.AddToAddingZero
+[       OK ] DecimalTest.AddToAddingZero (0 ms)
+[----------] 1 test from DecimalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DecimalTest.AddToAddingZero" end time: Dec 17 16:08 MSK
+"DecimalTest.AddToAddingZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/17 Testing: DecimalTest.SubToSimple
+10/17 Test: DecimalTest.SubToSimple
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build/tests" "--gtest_filter=DecimalTest.SubToSimple" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build
+"DecimalTest.SubToSimple" start time: Dec 17 16:08 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = DecimalTest.SubToSimple
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DecimalTest
+[ RUN      ] DecimalTest.SubToSimple
+[       OK ] DecimalTest.SubToSimple (0 ms)
+[----------] 1 test from DecimalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DecimalTest.SubToSimple" end time: Dec 17 16:08 MSK
+"DecimalTest.SubToSimple" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/17 Testing: DecimalTest.SubToBorrowAcrossDigits
+11/17 Test: DecimalTest.SubToBorrowAcrossDigits
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build/tests" "--gtest_filter=DecimalTest.SubToBorrowAcrossDigits" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build
+"DecimalTest.SubToBorrowAcrossDigits" start time: Dec 17 16:08 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = DecimalTest.SubToBorrowAcrossDigits
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DecimalTest
+[ RUN      ] DecimalTest.SubToBorrowAcrossDigits
+[       OK ] DecimalTest.SubToBorrowAcrossDigits (0 ms)
+[----------] 1 test from DecimalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DecimalTest.SubToBorrowAcrossDigits" end time: Dec 17 16:08 MSK
+"DecimalTest.SubToBorrowAcrossDigits" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/17 Testing: DecimalTest.SubToEqualResultsZero
+12/17 Test: DecimalTest.SubToEqualResultsZero
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build/tests" "--gtest_filter=DecimalTest.SubToEqualResultsZero" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build
+"DecimalTest.SubToEqualResultsZero" start time: Dec 17 16:08 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = DecimalTest.SubToEqualResultsZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DecimalTest
+[ RUN      ] DecimalTest.SubToEqualResultsZero
+[       OK ] DecimalTest.SubToEqualResultsZero (0 ms)
+[----------] 1 test from DecimalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DecimalTest.SubToEqualResultsZero" end time: Dec 17 16:08 MSK
+"DecimalTest.SubToEqualResultsZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/17 Testing: DecimalTest.SubToNegativeResult
+13/17 Test: DecimalTest.SubToNegativeResult
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build/tests" "--gtest_filter=DecimalTest.SubToNegativeResult" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build
+"DecimalTest.SubToNegativeResult" start time: Dec 17 16:08 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = DecimalTest.SubToNegativeResult
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DecimalTest
+[ RUN      ] DecimalTest.SubToNegativeResult
+[       OK ] DecimalTest.SubToNegativeResult (0 ms)
+[----------] 1 test from DecimalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DecimalTest.SubToNegativeResult" end time: Dec 17 16:08 MSK
+"DecimalTest.SubToNegativeResult" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/17 Testing: DecimalTest.CompareEqualSameString
+14/17 Test: DecimalTest.CompareEqualSameString
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build/tests" "--gtest_filter=DecimalTest.CompareEqualSameString" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build
+"DecimalTest.CompareEqualSameString" start time: Dec 17 16:08 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = DecimalTest.CompareEqualSameString
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DecimalTest
+[ RUN      ] DecimalTest.CompareEqualSameString
+[       OK ] DecimalTest.CompareEqualSameString (0 ms)
+[----------] 1 test from DecimalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DecimalTest.CompareEqualSameString" end time: Dec 17 16:08 MSK
+"DecimalTest.CompareEqualSameString" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/17 Testing: DecimalTest.CompareDifferentLengthsShorterIsLess
+15/17 Test: DecimalTest.CompareDifferentLengthsShorterIsLess
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build/tests" "--gtest_filter=DecimalTest.CompareDifferentLengthsShorterIsLess" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build
+"DecimalTest.CompareDifferentLengthsShorterIsLess" start time: Dec 17 16:08 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = DecimalTest.CompareDifferentLengthsShorterIsLess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DecimalTest
+[ RUN      ] DecimalTest.CompareDifferentLengthsShorterIsLess
+[       OK ] DecimalTest.CompareDifferentLengthsShorterIsLess (0 ms)
+[----------] 1 test from DecimalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DecimalTest.CompareDifferentLengthsShorterIsLess" end time: Dec 17 16:08 MSK
+"DecimalTest.CompareDifferentLengthsShorterIsLess" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/17 Testing: DecimalTest.CompareSameLengthDifferentValue
+16/17 Test: DecimalTest.CompareSameLengthDifferentValue
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build/tests" "--gtest_filter=DecimalTest.CompareSameLengthDifferentValue" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build
+"DecimalTest.CompareSameLengthDifferentValue" start time: Dec 17 16:08 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = DecimalTest.CompareSameLengthDifferentValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DecimalTest
+[ RUN      ] DecimalTest.CompareSameLengthDifferentValue
+[       OK ] DecimalTest.CompareSameLengthDifferentValue (0 ms)
+[----------] 1 test from DecimalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DecimalTest.CompareSameLengthDifferentValue" end time: Dec 17 16:08 MSK
+"DecimalTest.CompareSameLengthDifferentValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/17 Testing: DecimalTest.CompareWithZero
+17/17 Test: DecimalTest.CompareWithZero
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build/tests" "--gtest_filter=DecimalTest.CompareWithZero" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/2_var_1/build
+"DecimalTest.CompareWithZero" start time: Dec 17 16:08 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = DecimalTest.CompareWithZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DecimalTest
+[ RUN      ] DecimalTest.CompareWithZero
+[       OK ] DecimalTest.CompareWithZero (0 ms)
+[----------] 1 test from DecimalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"DecimalTest.CompareWithZero" end time: Dec 17 16:08 MSK
+"DecimalTest.CompareWithZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 17 16:08 MSK

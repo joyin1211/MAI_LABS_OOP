@@ -1,0 +1,22 @@
+tests_NOT_BUILT 0 0
+DecimalTest.DefaultConstructor 10 0.000322748
+DecimalTest.StringConstructor 8 0.000453599
+DecimalTest.StringConstructorInvalid 11 0.000216413
+DecimalTest.InitializerListConstructor 6 0.000345303
+DecimalTest.InitializerListConstructorInvalid 5 0.00079235
+DecimalTest.AddToSimpleNoCarry 5 0.000748893
+DecimalTest.CarryWithinSameLength 3 0.00125459
+DecimalTest.CarryExtendsLength 1 0.00321963
+DecimalTest.AddToCarryWithinSameLength 2 0.00179645
+DecimalTest.AddToCarryExtendsLength 2 0.00141902
+Decimal_AddTo.AddingZero 1 0.00267073
+DecimalTest.AddToAddingZero 1 0.00332495
+DecimalTest.SubToSimple 1 0.00315712
+DecimalTest.SubToBorrowAcrossDigits 1 0.00271391
+DecimalTest.SubToEqualResultsZero 1 0.00293681
+DecimalTest.SubToNegativeResult 1 0.00269537
+DecimalTest.CompareEqualSameString 1 0.0022856
+DecimalTest.CompareDifferentLengthsShorterIsLess 1 0.00284042
+DecimalTest.CompareSameLengthDifferentValue 1 0.00260376
+DecimalTest.CompareWithZero 1 0.00318599
+---
