@@ -1,0 +1,7 @@
+TypesTest.ToString 1 0.00436273
+TypesTest.ParseTypeValid 1 0.003045
+TypesTest.ParseTypeInvalid 1 0.00385621
+FactoryTest.CreateTypes 1 0.00472431
+Editor.UniqueNameWithinType 1 0.00307389
+Editor.CoordsRange 1 0.00379275
+---

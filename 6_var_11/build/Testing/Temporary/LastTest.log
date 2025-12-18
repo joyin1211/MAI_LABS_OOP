@@ -1,0 +1,165 @@
+Start testing: Dec 18 15:27 MSK
+----------------------------------------------------------
+1/6 Testing: TypesTest.ToString
+1/6 Test: TypesTest.ToString
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/6_var_11/build/tests" "--gtest_filter=TypesTest.ToString" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/6_var_11/build
+"TypesTest.ToString" start time: Dec 18 15:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = TypesTest.ToString
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TypesTest
+[ RUN      ] TypesTest.ToString
+[       OK ] TypesTest.ToString (0 ms)
+[----------] 1 test from TypesTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TypesTest.ToString" end time: Dec 18 15:27 MSK
+"TypesTest.ToString" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: TypesTest.ParseTypeValid
+2/6 Test: TypesTest.ParseTypeValid
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/6_var_11/build/tests" "--gtest_filter=TypesTest.ParseTypeValid" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/6_var_11/build
+"TypesTest.ParseTypeValid" start time: Dec 18 15:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = TypesTest.ParseTypeValid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TypesTest
+[ RUN      ] TypesTest.ParseTypeValid
+[       OK ] TypesTest.ParseTypeValid (0 ms)
+[----------] 1 test from TypesTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TypesTest.ParseTypeValid" end time: Dec 18 15:27 MSK
+"TypesTest.ParseTypeValid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: TypesTest.ParseTypeInvalid
+3/6 Test: TypesTest.ParseTypeInvalid
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/6_var_11/build/tests" "--gtest_filter=TypesTest.ParseTypeInvalid" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/6_var_11/build
+"TypesTest.ParseTypeInvalid" start time: Dec 18 15:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = TypesTest.ParseTypeInvalid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TypesTest
+[ RUN      ] TypesTest.ParseTypeInvalid
+[       OK ] TypesTest.ParseTypeInvalid (0 ms)
+[----------] 1 test from TypesTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TypesTest.ParseTypeInvalid" end time: Dec 18 15:27 MSK
+"TypesTest.ParseTypeInvalid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: FactoryTest.CreateTypes
+4/6 Test: FactoryTest.CreateTypes
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/6_var_11/build/tests" "--gtest_filter=FactoryTest.CreateTypes" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/6_var_11/build
+"FactoryTest.CreateTypes" start time: Dec 18 15:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = FactoryTest.CreateTypes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactoryTest
+[ RUN      ] FactoryTest.CreateTypes
+[       OK ] FactoryTest.CreateTypes (0 ms)
+[----------] 1 test from FactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FactoryTest.CreateTypes" end time: Dec 18 15:27 MSK
+"FactoryTest.CreateTypes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: Editor.UniqueNameWithinType
+5/6 Test: Editor.UniqueNameWithinType
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/6_var_11/build/tests" "--gtest_filter=Editor.UniqueNameWithinType" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/6_var_11/build
+"Editor.UniqueNameWithinType" start time: Dec 18 15:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = Editor.UniqueNameWithinType
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Editor
+[ RUN      ] Editor.UniqueNameWithinType
+[       OK ] Editor.UniqueNameWithinType (0 ms)
+[----------] 1 test from Editor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Editor.UniqueNameWithinType" end time: Dec 18 15:27 MSK
+"Editor.UniqueNameWithinType" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: Editor.CoordsRange
+6/6 Test: Editor.CoordsRange
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/6_var_11/build/tests" "--gtest_filter=Editor.CoordsRange" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/6_var_11/build
+"Editor.CoordsRange" start time: Dec 18 15:27 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = Editor.CoordsRange
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Editor
+[ RUN      ] Editor.CoordsRange
+[       OK ] Editor.CoordsRange (0 ms)
+[----------] 1 test from Editor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Editor.CoordsRange" end time: Dec 18 15:27 MSK
+"Editor.CoordsRange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 18 15:27 MSK
