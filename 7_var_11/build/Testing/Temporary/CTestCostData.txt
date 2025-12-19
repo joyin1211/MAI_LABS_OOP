@@ -1,0 +1,5 @@
+TypesTest.ToString 1 0.00422868
+TypesTest.ParseTypeValid 1 0.00681476
+TypesTest.ParseTypeInvalid 1 0.0044301
+FactoryTest.CreateTypes 1 0.00427631
+---
