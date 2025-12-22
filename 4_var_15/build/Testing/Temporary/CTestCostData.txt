@@ -1,0 +1,7 @@
+FigureTest.AreaCentroidTriangle 2 0.00711201
+FigureTest.AreaAndCentroidHexagon 0 0
+FigureTest.AreaAndCentroidUsingOctagon 0 0
+FigureTest.SameTypeSameVerticesEqual 2 0.00711839
+FigureTest.DifferentTypesNotEqual 2 0.00815469
+FigureTest.SumOfAreasInArray 2 0.00904601
+---

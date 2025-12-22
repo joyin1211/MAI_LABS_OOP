@@ -1,0 +1,5 @@
+/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build/CMakeFiles/tests.dir
+/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build/CMakeFiles/main.dir
+/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build/CMakeFiles/test.dir
+/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build/CMakeFiles/edit_cache.dir
+/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build/CMakeFiles/rebuild_cache.dir

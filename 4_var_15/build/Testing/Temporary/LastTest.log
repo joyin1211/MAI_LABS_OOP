@@ -1,0 +1,111 @@
+Start testing: Dec 22 17:36 MSK
+----------------------------------------------------------
+1/4 Testing: FigureTest.AreaCentroidTriangle
+1/4 Test: FigureTest.AreaCentroidTriangle
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/4_var_15/build/tests" "--gtest_filter=FigureTest.AreaCentroidTriangle" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/4_var_15/build
+"FigureTest.AreaCentroidTriangle" start time: Dec 22 17:36 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = FigureTest.AreaCentroidTriangle
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.AreaCentroidTriangle
+[       OK ] FigureTest.AreaCentroidTriangle (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.AreaCentroidTriangle" end time: Dec 22 17:36 MSK
+"FigureTest.AreaCentroidTriangle" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: FigureTest.SameTypeSameVerticesEqual
+2/4 Test: FigureTest.SameTypeSameVerticesEqual
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/4_var_15/build/tests" "--gtest_filter=FigureTest.SameTypeSameVerticesEqual" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/4_var_15/build
+"FigureTest.SameTypeSameVerticesEqual" start time: Dec 22 17:36 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = FigureTest.SameTypeSameVerticesEqual
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.SameTypeSameVerticesEqual
+[       OK ] FigureTest.SameTypeSameVerticesEqual (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.SameTypeSameVerticesEqual" end time: Dec 22 17:36 MSK
+"FigureTest.SameTypeSameVerticesEqual" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: FigureTest.DifferentTypesNotEqual
+3/4 Test: FigureTest.DifferentTypesNotEqual
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/4_var_15/build/tests" "--gtest_filter=FigureTest.DifferentTypesNotEqual" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/4_var_15/build
+"FigureTest.DifferentTypesNotEqual" start time: Dec 22 17:36 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = FigureTest.DifferentTypesNotEqual
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.DifferentTypesNotEqual
+[       OK ] FigureTest.DifferentTypesNotEqual (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.DifferentTypesNotEqual" end time: Dec 22 17:36 MSK
+"FigureTest.DifferentTypesNotEqual" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: FigureTest.SumOfAreasInArray
+4/4 Test: FigureTest.SumOfAreasInArray
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/4_var_15/build/tests" "--gtest_filter=FigureTest.SumOfAreasInArray" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/4_var_15/build
+"FigureTest.SumOfAreasInArray" start time: Dec 22 17:36 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = FigureTest.SumOfAreasInArray
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.SumOfAreasInArray
+[       OK ] FigureTest.SumOfAreasInArray (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.SumOfAreasInArray" end time: Dec 22 17:36 MSK
+"FigureTest.SumOfAreasInArray" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 22 17:36 MSK

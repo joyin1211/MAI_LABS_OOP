@@ -1,0 +1,192 @@
+Start testing: Dec 22 20:39 MSK
+----------------------------------------------------------
+1/7 Testing: LinkedList.InitiallyEmpty
+1/7 Test: LinkedList.InitiallyEmpty
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build/tests" "--gtest_filter=LinkedList.InitiallyEmpty" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build
+"LinkedList.InitiallyEmpty" start time: Dec 22 20:39 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedList.InitiallyEmpty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedList
+[ RUN      ] LinkedList.InitiallyEmpty
+[       OK ] LinkedList.InitiallyEmpty (0 ms)
+[----------] 1 test from LinkedList (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList.InitiallyEmpty" end time: Dec 22 20:39 MSK
+"LinkedList.InitiallyEmpty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/7 Testing: LinkedList.PushFrontOrder
+2/7 Test: LinkedList.PushFrontOrder
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build/tests" "--gtest_filter=LinkedList.PushFrontOrder" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build
+"LinkedList.PushFrontOrder" start time: Dec 22 20:39 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedList.PushFrontOrder
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedList
+[ RUN      ] LinkedList.PushFrontOrder
+[       OK ] LinkedList.PushFrontOrder (0 ms)
+[----------] 1 test from LinkedList (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList.PushFrontOrder" end time: Dec 22 20:39 MSK
+"LinkedList.PushFrontOrder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/7 Testing: LinkedList.PopFrontWorks
+3/7 Test: LinkedList.PopFrontWorks
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build/tests" "--gtest_filter=LinkedList.PopFrontWorks" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build
+"LinkedList.PopFrontWorks" start time: Dec 22 20:39 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedList.PopFrontWorks
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedList
+[ RUN      ] LinkedList.PopFrontWorks
+[       OK ] LinkedList.PopFrontWorks (0 ms)
+[----------] 1 test from LinkedList (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList.PopFrontWorks" end time: Dec 22 20:39 MSK
+"LinkedList.PopFrontWorks" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/7 Testing: LinkedList.ClearEmptiesList
+4/7 Test: LinkedList.ClearEmptiesList
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build/tests" "--gtest_filter=LinkedList.ClearEmptiesList" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build
+"LinkedList.ClearEmptiesList" start time: Dec 22 20:39 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedList.ClearEmptiesList
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedList
+[ RUN      ] LinkedList.ClearEmptiesList
+[       OK ] LinkedList.ClearEmptiesList (0 ms)
+[----------] 1 test from LinkedList (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList.ClearEmptiesList" end time: Dec 22 20:39 MSK
+"LinkedList.ClearEmptiesList" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/7 Testing: LinkedList.IsForwardIterator
+5/7 Test: LinkedList.IsForwardIterator
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build/tests" "--gtest_filter=LinkedList.IsForwardIterator" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build
+"LinkedList.IsForwardIterator" start time: Dec 22 20:39 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedList.IsForwardIterator
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedList
+[ RUN      ] LinkedList.IsForwardIterator
+[       OK ] LinkedList.IsForwardIterator (0 ms)
+[----------] 1 test from LinkedList (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList.IsForwardIterator" end time: Dec 22 20:39 MSK
+"LinkedList.IsForwardIterator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/7 Testing: LinkedList.IteratorTraversal
+6/7 Test: LinkedList.IteratorTraversal
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build/tests" "--gtest_filter=LinkedList.IteratorTraversal" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build
+"LinkedList.IteratorTraversal" start time: Dec 22 20:39 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedList.IteratorTraversal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedList
+[ RUN      ] LinkedList.IteratorTraversal
+[       OK ] LinkedList.IteratorTraversal (0 ms)
+[----------] 1 test from LinkedList (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList.IteratorTraversal" end time: Dec 22 20:39 MSK
+"LinkedList.IteratorTraversal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/7 Testing: LinkedList.WorksWithComplexType
+7/7 Test: LinkedList.WorksWithComplexType
+Command: "/home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build/tests" "--gtest_filter=LinkedList.WorksWithComplexType" "--gtest_also_run_disabled_tests"
+Directory: /home/kavorgi/Documents/MAI/oop/MAI_LABS_OOP/5_var_13/build
+"LinkedList.WorksWithComplexType" start time: Dec 22 20:39 MSK
+Output:
+----------------------------------------------------------
+Running main() from ./googletest/src/gtest_main.cc
+Note: Google Test filter = LinkedList.WorksWithComplexType
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LinkedList
+[ RUN      ] LinkedList.WorksWithComplexType
+[       OK ] LinkedList.WorksWithComplexType (0 ms)
+[----------] 1 test from LinkedList (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedList.WorksWithComplexType" end time: Dec 22 20:39 MSK
+"LinkedList.WorksWithComplexType" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 22 20:39 MSK

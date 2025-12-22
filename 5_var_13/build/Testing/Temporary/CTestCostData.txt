@@ -1,0 +1,8 @@
+LinkedList.InitiallyEmpty 1 0.00230261
+LinkedList.PushFrontOrder 1 0.0036688
+LinkedList.PopFrontWorks 1 0.0024755
+LinkedList.ClearEmptiesList 1 0.00307118
+LinkedList.IsForwardIterator 1 0.00194957
+LinkedList.IteratorTraversal 1 0.00180551
+LinkedList.WorksWithComplexType 1 0.00192541
+---
